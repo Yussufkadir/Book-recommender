@@ -1,0 +1,1 @@
+Special Thanks to zakaria-narjis. I looked his project code to find out the filtering thresholds in order to pass the test. I was tried many filtering values but none of them worked. so thanks again to zakaria-najis.
